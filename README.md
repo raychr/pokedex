@@ -24,7 +24,7 @@
         <li>JavaScript (ES6+)</li>
     </ul>
     
-  <h2>🛠 Como Rodar o Projeto</h2>
+  <h2> Como Rodar o Projeto</h2>
     <ol>
         <li>Baixe ou clone este repositório.</li>
         <li>Abra o arquivo <code>index.html</code> em um navegador.</li>
